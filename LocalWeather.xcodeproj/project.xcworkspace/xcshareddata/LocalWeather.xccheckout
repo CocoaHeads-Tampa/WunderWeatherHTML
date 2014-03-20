@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>D4D5FC22-3E1A-49B6-A729-947EDF87227D</string>
+	<key>IDESourceControlProjectName</key>
+	<string>LocalWeather</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>5DA29B18-7F0A-496F-B921-BC381DF521D0</key>
+		<string>https://github.com/CocoaHeads-Tampa/WunderWeather.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>LocalWeather.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>5DA29B18-7F0A-496F-B921-BC381DF521D0</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/CocoaHeads-Tampa/WunderWeather.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>5DA29B18-7F0A-496F-B921-BC381DF521D0</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>5DA29B18-7F0A-496F-B921-BC381DF521D0</string>
+			<key>IDESourceControlWCCName</key>
+			<string>WunderWeatherHTML</string>
+		</dict>
+	</array>
+</dict>
+</plist>
